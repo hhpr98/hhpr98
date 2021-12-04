@@ -20,7 +20,7 @@ Ask me anything <a href="https://github.com/hhpr98/hhpr98/issues/new"><b>here</b
 or <a href="mailto:nguyenhuuhoa1998@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
-
+</div>
 <!--
 ==================== Body session ========================
 -->

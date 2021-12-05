@@ -107,7 +107,7 @@ or <a href="mailto:nguyenhuuhoa1998@gmail.com"><b>email</b></a> me
 
 <br>
 
- <hr>
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 
 
 
@@ -128,7 +128,7 @@ or <a href="mailto:nguyenhuuhoa1998@gmail.com"><b>email</b></a> me
 
  <br> 
  
- <hr>
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
  
  <br>
 

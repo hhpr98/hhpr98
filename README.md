@@ -132,6 +132,15 @@ or <a href="mailto:nguyenhuuhoa1998@gmail.com"><b>email</b></a> me
  
  <br>
 
+
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/hhpr98/count.svg" />  
+</p>
 <!--
 **hhpr98/hhpr98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

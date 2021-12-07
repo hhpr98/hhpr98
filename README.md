@@ -12,15 +12,6 @@
 
 </div>
 
-<div align="center">
-
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/hhpr98/hhpr98/issues/new"><b>here</b></a><br>
-or <a href="mailto:nguyenhuuhoa1998@gmail.com"><b>email</b></a> me
-
-<i>Happy Coding!</i> 😊
-</div>
 <!--
 ==================== Body session ========================
 -->
@@ -141,6 +132,21 @@ or <a href="mailto:nguyenhuuhoa1998@gmail.com"><b>email</b></a> me
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/hhpr98/count.svg" />  
 </p>
+
+<!--
+==================== End session ========================
+-->
+
+<div align="center">
+
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/hhpr98/hhpr98/issues/new"><b>here</b></a><br>
+or <a href="mailto:nguyenhuuhoa1998@gmail.com"><b>email</b></a> me
+
+<i>Happy Coding!</i> 😊
+</div>
+
 <!--
 **hhpr98/hhpr98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

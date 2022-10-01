@@ -29,11 +29,103 @@
 ### 🤵 About Me:
 - 🏦 I'm currently working as a Software Engineer
       <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/giphy.gif" width="30">
-- 🤔 I use daily ```.js```,``` .cs```. Sometime is ```.java```, ```.cpp```
-- 💬 Can be working on ReactJS, NodeJS, ReactNative, AngularJS, Java, C#
+- 🤔 I use daily ```.js```, ```.ts```,``` .cs```. Sometime is ```.java```, ```.cpp```
 - 🌱 I’m currently learning in some front-end language (Vue.js)
 - 📝 We can connect on [Facebook](https://www.facebook.com/nguyenhuuhoa15.04.1998/) or [Twitter](https://twitter.com/nhh_plus)
 - ⚡ Quote: No code no life
+
+- 🤹‍♀️ Skills
+  + Coding skill
+    + Frontend
+      + ✅ReactJS (medium), both JS, TS
+      + ✅Angular (basic), TS
+      + ✅Vue (basic), TS
+      + ✅ExpressJS
+        + only hbs (handlebars view engine)
+      + ✅ElectronJS (for building desktop cross platform application)
+      + ❌NextJS: planning
+      + ❌RemixJS: planning
+      + ✅ASP.NET (basic)
+    + Stylesheet
+      + ✅Html5 (medium)
+      + ✅CSS
+        + bootstrap 4, 5 (medium)
+        + tailwindCSS (basic)
+        + React Bootstrap (framework for React)
+        + ant design (framework for React, Vue)
+      + ✅SCSS
+    + Backend
+      + ✅C#
+        + WPF
+        + .NET Framework (I usually doing with WinForm)
+      + ✅Java
+        + Java basic
+        + Java Swing (beginner)
+        + Spring boot (framework - basic)
+      + ✅NodeJS
+        + Express (both JS and TS)
+    + Mobile
+      + ✅React Native
+        + Expo (basic)
+        + react native cli
+      + ✅IOS
+        + Swift4 (basic)
+      + ✅Android (beginner)
+        + Java
+        + ❌Kotlin: planning
+      + ❌Flutter: planning
+    + Others
+      + ❌Python: planning (high priority)
+      + ❌Golang: planning
+      + ❌PHP: planning
+      + ✅C/C++ (basic)
+      + ✅Pascal 😂
+      + Mathlab (beginner)
+      + R (beginner)
+    + Database
+      + SQL (MSSQL, MySQL)
+      + mongoDB
+      + ORM framework
+        + sequelize (NodeJS)
+        + EntityFramework (C#)
+    + API
+      + RESTful API
+        + NodeJS
+        + Java
+        + ❌C#
+      + ❌GraphQL : planning
+    + Supporting tools:
+      + ESlint
+      + Prettier
+      + Docker
+      + Firebase
+      + Heroku
+      + IDE (that I worked)
+        + VSCode (usually)
+        + VS
+        + Webstorm
+        + Intellij
+        + XCode
+      + Git
+        + github (personal)
+          + CI/CD
+          + submodule
+        + gitlab (company)
+        + bitbucket (company)
+          + submodule
+  + Softskills
+    + good responsibility
+    + group working
+    + Self study
+  + Others
+    + English: basic communication
+
+----
+
+TODO: add working here
+
+----
+
 
 <!--
 ==================== Stat session ========================

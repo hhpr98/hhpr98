@@ -33,7 +33,6 @@
 - 🌱 I’m currently learning in some front-end language (Vue.js)
 - 📝 We can connect on [Facebook](https://www.facebook.com/nguyenhuuhoa15.04.1998/) or [Twitter](https://twitter.com/nhh_plus)
 - ⚡ Quote: No code no life
-
 - 🤹‍♀️ Skills
   + Coding skill
     + Frontend
@@ -119,12 +118,18 @@
     + Self study
   + Others
     + English: basic communication
+- 🚋 Working experience
+  + Fresher Developer at Data Power (9/2019-6/2020)
+    + Angular (frontend)
+    + Java (springboot - backend)
+    + MSSQL (working with function and procedure)
+    + Docker (just adding redis client 🤣)
+  + Software Engineer at OPSWAT Vietnam (11/2020-now)
+    + Squirrel script (analyst engineer) (for about 1 year)
+    + C++ (basic)
+    + ElectronJS (desktop application) + ReactJS (frontend) + NodeJS (backend) (for about 1 year)
+    + React + Typescript (frontend development) (for about 6 months)
 
-----
-
-TODO: add working here
-
-----
 
 
 <!--

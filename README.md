@@ -125,7 +125,7 @@
     + MSSQL (working with function and procedure)
     + Docker (just adding redis client 🤣)
   + Software Engineer at OPSWAT Vietnam (11/2020-now)
-    + Squirrel script (analyst engineer) (for about 1 year)
+    + Squirrel script (analyst engineer) (for about 2+ years)
     + C++ (basic)
     + ElectronJS (desktop application) + ReactJS (frontend) + NodeJS (backend) (for about 1 year)
     + React + Typescript (frontend development) (for about 6 months)

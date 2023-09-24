@@ -36,7 +36,7 @@
 - 🤹‍♀️ Skills
   + Coding skill
     + Frontend
-      + ✅ReactJS (medium), both JS, TS
+      + ✅ReactJS (middle), both JS, TS
       + ✅Angular (basic), TS
       + ✅Vue (basic), TS
       + ✅ExpressJS
@@ -46,9 +46,9 @@
       + ❌RemixJS: planning
       + ✅ASP.NET (basic)
     + Stylesheet
-      + ✅Html5 (medium)
+      + ✅Html5 (middle)
       + ✅CSS
-        + bootstrap 4, 5 (medium)
+        + bootstrap 4, 5 (middle)
         + tailwindCSS (basic)
         + React Bootstrap (framework for React)
         + ant design (framework for React, Vue)
